@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:exitFadeDuration="@android:010E0000"
+	>
+	<item
+		android:state_pressed="true"
+		android:drawable="@7F090044"
+		>
+	</item>
+	<item
+		android:state_focused="true"
+		android:drawable="@7F090044"
+		>
+	</item>
+	<item
+		android:drawable="@7F090017"
+		>
+	</item>
+</selector>

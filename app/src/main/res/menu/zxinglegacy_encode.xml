@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+	<item
+		android:icon="@android:01080052"
+		android:id="@7F0B012A"
+		android:orderInCategory="1"
+		android:title="@7F0D012F"
+		>
+	</item>
+	<item
+		android:icon="@android:0108009C"
+		android:id="@7F0B012F"
+		android:orderInCategory="2"
+		android:title="@7F0D012D"
+		>
+	</item>
+</menu>

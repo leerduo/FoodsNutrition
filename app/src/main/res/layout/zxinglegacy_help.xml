@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="1"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	>
+	<WebView
+		android:id="@7F0B0125"
+		android:layout_width="-1"
+		android:layout_height="-2"
+		android:layout_weight="1.0"
+		>
+	</WebView>
+	<LinearLayout
+		android:gravity="0x00000011"
+		android:orientation="0"
+		android:paddingTop="@7F0A007B"
+		android:layout_width="-1"
+		android:layout_height="-2"
+		android:weightSum="1.0"
+		android:layout_weight="0.0"
+		>
+		<Button
+			android:id="@7F0B0011"
+			android:layout_width="0.0dip"
+			android:layout_height="-2"
+			android:text="@7F0D0122"
+			android:layout_weight="0.5"
+			>
+		</Button>
+		<Button
+			android:id="@7F0B0126"
+			android:layout_width="0.0dip"
+			android:layout_height="-2"
+			android:text="@7F0D0124"
+			android:layout_weight="0.5"
+			>
+		</Button>
+	</LinearLayout>
+</LinearLayout>

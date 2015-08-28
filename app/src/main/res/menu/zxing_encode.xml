@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	>
+	<item
+		android:icon="@android:01080052"
+		android:id="@7F0B012C"
+		android:orderInCategory="1"
+		android:title="@7F0D0118"
+		android:showAsAction="0x00000005"
+		>
+	</item>
+	<item
+		android:icon="@android:0108009C"
+		android:id="@7F0B012D"
+		android:orderInCategory="2"
+		android:title="@7F0D0116"
+		android:showAsAction="0x00000005"
+		>
+	</item>
+</menu>

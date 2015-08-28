@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@7F09002A"
+	android:padding="@7F0A005E"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	>
+	<TextView
+		android:textSize="@7F0A0051"
+		android:textColor="@7F09002F"
+		android:autoLink="0x00000001"
+		android:id="@7F0B0055"
+		android:layout_width="-1"
+		android:layout_height="-1"
+		android:text="@7F0D001E"
+		android:lineSpacingExtra="@7F0A0057"
+		android:lineSpacingMultiplier="1.5"
+		>
+	</TextView>
+</RelativeLayout>

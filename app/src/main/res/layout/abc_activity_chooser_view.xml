@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayoutCompat
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_gravity="0x00000011"
+	android:id="@7F0B0037"
+	android:layout_width="-2"
+	android:layout_height="-1"
+	style="?7F0100A0"
+	>
+	<include
+		layout="@7F030008"
+		>
+	</include>
+</android.support.v7.widget.LinearLayoutCompat>

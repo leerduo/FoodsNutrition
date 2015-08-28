@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="1"
+	android:background="@android:0106000C"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	>
+	<ProgressBar
+		android:layout_gravity="0x00000011"
+		android:id="@7F0B00F8"
+		android:layout_width="-2"
+		android:layout_height="-2"
+		style="@android:0103001E"
+		>
+	</ProgressBar>
+	<ImageView
+		android:layout_gravity="0x00000011"
+		android:id="@7F0B00B0"
+		android:layout_width="-1"
+		android:layout_height="-1"
+		>
+	</ImageView>
+</FrameLayout>

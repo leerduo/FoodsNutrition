@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:gravity="0x00000011"
+	android:orientation="1"
+	android:background="@7F090066"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	android:fillViewport="true"
+	>
+	<ImageView
+		android:layout_gravity="0x00000001"
+		android:id="@7F0B0122"
+		android:layout_width="-1"
+		android:layout_height="-2"
+		android:scaleType="5"
+		>
+	</ImageView>
+	<ScrollView
+		android:gravity="0x00000011"
+		android:layout_gravity="0x00000001"
+		android:layout_width="-1"
+		android:layout_height="-2"
+		>
+		<TextView
+			android:textColor="@7F090065"
+			android:gravity="0x00000011"
+			android:layout_gravity="0x00000001"
+			android:id="@7F0B00CC"
+			android:paddingLeft="@7F0A007A"
+			android:paddingRight="@7F0A007A"
+			android:paddingBottom="@7F0A007A"
+			android:layout_width="-1"
+			android:layout_height="-2"
+			android:textIsSelectable="true"
+			>
+		</TextView>
+	</ScrollView>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.view.ViewPager
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@7F0B0073"
+	android:background="@android:0106000C"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	>
+</android.support.v4.view.ViewPager>

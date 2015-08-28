@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.internal.widget.ActionBarOverlayLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:id="@7F0B0045"
+	android:fitsSystemWindows="true"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	>
+	<include
+		layout="@7F030010"
+		>
+	</include>
+	<android.support.v7.internal.widget.ActionBarContainer
+		android:gravity="0x00000030"
+		android:id="@7F0B0046"
+		android:layout_width="-1"
+		android:layout_height="-2"
+		android:layout_alignParentTop="true"
+		style="?7F01007C"
+		>
+		<android.support.v7.widget.Toolbar
+			android:id="@7F0B0047"
+			android:layout_width="-1"
+			android:layout_height="-2"
+			app:navigationContentDescription="@7F0D0011"
+			style="?7F0100A1"
+			>
+		</android.support.v7.widget.Toolbar>
+		<android.support.v7.internal.widget.ActionBarContextView
+			android:id="@7F0B0048"
+			android:visibility="2"
+			android:layout_width="-1"
+			android:layout_height="-2"
+			style="?7F010085"
+			>
+		</android.support.v7.internal.widget.ActionBarContextView>
+	</android.support.v7.internal.widget.ActionBarContainer>
+</android.support.v7.internal.widget.ActionBarOverlayLayout>

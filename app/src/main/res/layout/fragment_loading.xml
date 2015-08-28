@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProgressBar
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_gravity="0x00000011"
+	android:id="@7F0B00FB"
+	android:background="@7F02003E"
+	android:layout_width="-2"
+	android:layout_height="-2"
+	android:indeterminateDrawable="@7F020049"
+	>
+</ProgressBar>

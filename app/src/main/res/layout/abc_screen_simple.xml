@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.internal.widget.FitWindowsLinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="1"
+	android:id="@7F0B0042"
+	android:fitsSystemWindows="true"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	>
+	<android.support.v7.internal.widget.ViewStubCompat
+		android:id="@7F0B0043"
+		android:layout="@7F030005"
+		android:inflatedId="@7F0B0044"
+		android:layout_width="-1"
+		android:layout_height="-2"
+		>
+	</android.support.v7.internal.widget.ViewStubCompat>
+	<include
+		layout="@7F030010"
+		>
+	</include>
+</android.support.v7.internal.widget.FitWindowsLinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:gravity="0x00000010"
+	android:orientation="1"
+	android:background="@7F09002A"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	>
+	<TextView
+		android:textSize="@7F0A004F"
+		android:textColor="@7F09002F"
+		android:gravity="0x00000013"
+		android:id="@7F0B00AE"
+		android:background="@7F020040"
+		android:padding="@7F0A005E"
+		android:layout_width="-1"
+		android:layout_height="@7F0A0058"
+		android:text="拍照"
+		>
+	</TextView>
+	<include
+		layout="@7F03004C"
+		>
+	</include>
+	<TextView
+		android:textSize="@7F0A004F"
+		android:textColor="@7F09002F"
+		android:gravity="0x00000013"
+		android:id="@7F0B00AF"
+		android:background="@7F020040"
+		android:padding="@7F0A005E"
+		android:layout_width="-1"
+		android:layout_height="@7F0A0058"
+		android:text="从相册中选择"
+		>
+	</TextView>
+</LinearLayout>

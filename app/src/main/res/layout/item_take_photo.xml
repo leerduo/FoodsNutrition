@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="1"
+	android:id="@7F0B010D"
+	android:background="@android:0106000B"
+	android:layout_width="-1"
+	android:layout_height="130.0dip"
+	android:scaleType="5"
+	>
+</ImageButton>
